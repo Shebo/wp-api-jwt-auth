@@ -15,7 +15,7 @@
  * Plugin Name:       JWT Authentication for WP-API - Hiro Edition
  * Plugin URI:        https://enriquechavez.co
  * Description:       Extends the WP REST API using JSON Web Tokens Authentication as an authentication method.
- * Version:           1.1.1
+ * Version:           1.2.3
  * Author:            Enrique Chavez
  * Author URI:        https://enriquechavez.co
  * License:           GPL-2.0+
